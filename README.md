@@ -3,7 +3,7 @@
 新紀元週刊，是大紀元新聞集團發行出版的一份全球華人時事週刊。希望能夠對這個世界以新的角度和新的方法進行重新觀察，也以一個新的視野，對東方世界重新認識，以及更加重要的，對我們的內心世界加以省思。
 
 <a href="http://d2yo55qh5v3h5b.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279366/3c3df178-fb70-11e5-86f1-38a9771cf3db.jpg" width="317" height="91"></a>
-[![xjy521](https://cloud.githubusercontent.com/assets/18081243/23782886/34f249ac-051d-11e7-9d8d-86e3c30c706b.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N521.pdf) | [![xjy520](https://cloud.githubusercontent.com/assets/18081243/23782884/32c028f2-051d-11e7-8561-b37746bd07c9.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N520.pdf)
+[![xjy521](https://cloud.githubusercontent.com/assets/18081243/23782886/34f249ac-051d-11e7-9d8d-86e3c30c706b.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N521.pdf) | [![xjy520](https://cloud.githubusercontent.com/assets/18081243/23782884/32c028f2-051d-11e7-8561-b37746bd07c9.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N520.pdf) |
 ------------ | ------------- | -------------
 [![xjy519](https://cloud.githubusercontent.com/assets/20497750/23337359/7957c638-fbb0-11e6-9641-964871b315c9.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N519.pdf) | [![xjy518](https://cloud.githubusercontent.com/assets/20497750/23337342/da8df1f8-fbaf-11e6-990b-2867165802a7.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N518.pdf)
 [![xjy517](https://cloud.githubusercontent.com/assets/20497750/23337343/dc18dff6-fbaf-11e6-93a0-7e4d1c0afbb6.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N517.pdf) | [![xjy516](https://cloud.githubusercontent.com/assets/18081243/22404323/2875ec26-e5f4-11e6-8e8b-0d2e2004e613.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N516.pdf)
