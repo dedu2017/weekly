@@ -4,7 +4,7 @@
 
 <a href="http://d2yo55qh5v3h5b.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279366/3c3df178-fb70-11e5-86f1-38a9771cf3db.jpg" width="317" height="91"></a>
 
-[![xjy526](https://cloud.githubusercontent.com/assets/20497750/25074139/ac0ac572-22ba-11e7-9dbc-2e5b5446d64c.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N524.pdf)
+[![xjy526](https://cloud.githubusercontent.com/assets/20497750/25074139/ac0ac572-22ba-11e7-9dbc-2e5b5446d64c.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N526.pdf)
 
 [![xjy525](https://cloud.githubusercontent.com/assets/20497750/25074140/ac2351b4-22ba-11e7-9f60-9d30d64dce14.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N525.pdf) | [![xjy524](https://cloud.githubusercontent.com/assets/18081243/24536199/6b7450e2-159e-11e7-9967-d4f26645de89.jpg)](https://d1br6nm36173c9.cloudfront.net/pdf/xjyzk/N524.pdf)
 ------------ | ------------- |
