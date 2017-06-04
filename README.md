@@ -1,3 +1,4 @@
+✪ **本页网址 https://git.io/xinsheng**  
 [![xjy-book](https://cloud.githubusercontent.com/assets/18081243/14840784/d105c716-0c7a-11e6-8687-d9eabda06f17.jpg)](https://github.com/xjy16/xjy/blob/master/README.md)
 
 新紀元週刊，是大紀元新聞集團發行出版的一份全球華人時事週刊。希望能夠對這個世界以新的角度和新的方法進行重新觀察，也以一個新的視野，對東方世界重新認識，以及更加重要的，對我們的內心世界加以省思。
