@@ -5,7 +5,7 @@
 新紀元週刊，是大紀元新聞集團發行出版的一份全球華人時事週刊。希望能夠對這個世界以新的角度和新的方法進行重新觀察，也以一個新的視野，對東方世界重新認識，以及更加重要的，對我們的內心世界加以省思。
 
 订阅全年52期《新纪元周刊》的PDF电子版，108元人民币  
-请联系：newepochservice@gmail.com  QQ
+请联系：newepochservice@gmail.com
 
 [![xjy544](https://github.com/xjy16/books/blob/master/cover/xjy544.jpg)](https://github.com/xjy16/books/blob/master/N544.zip?raw=true)
 
