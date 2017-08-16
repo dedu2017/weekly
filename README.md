@@ -4,10 +4,14 @@
 
 新紀元週刊，是大紀元新聞集團發行出版的一份全球華人時事週刊。希望能夠對這個世界以新的角度和新的方法進行重新觀察，也以一個新的視野，對東方世界重新認識，以及更加重要的，對我們的內心世界加以省思。
 
-<a href="http://d2yo55qh5v3h5b.cloudfront.net" target="_blank"><img src="https://cloud.githubusercontent.com/assets/18081243/14279366/3c3df178-fb70-11e5-86f1-38a9771cf3db.jpg" width="317" height="91"></a>
+订阅全年52期《新纪元周刊》的PDF电子版，108元人民币  
+请联系：newepochservice@gmail.com  QQ
 
+[![xjy544](https://github.com/xjy16/books/blob/master/cover/xjy544.jpg)](https://github.com/xjy16/books/blob/master/N544.zip?raw=true)
+
+[![xjy543](https://github.com/xjy16/books/blob/master/cover/xjy543.jpg)](https://github.com/xjy16/books/blob/master/N543.zip?raw=true) | [![xjy542](https://github.com/xjy16/books/blob/master/cover/xjy542.jpg)](https://github.com/xjy16/books/blob/master/N542.zip?raw=true)
+| ------------ | ------------- |
 [![xjy541](https://github.com/xjy16/books/blob/master/cover/xjy541.jpg)](https://github.com/xjy16/books/blob/master/N541.zip?raw=true) | [![xjy540](https://github.com/xjy16/books/blob/master/cover/xjy540.jpg)](https://github.com/xjy16/books/blob/master/N540.zip?raw=true)
------------- | ------------- |
 [![xjy539](https://github.com/xjy16/books/blob/master/cover/xjy539.jpg)](https://github.com/xjy16/books/blob/master/N539.zip?raw=true) | [![xjy538](https://github.com/xjy16/books/blob/master/cover/xjy538.jpg)](https://github.com/xjy16/books/blob/master/N538.zip?raw=true)
 [![xjy537](https://github.com/xjy16/books/blob/master/cover/xjy537.jpg)](https://github.com/xjy16/books/blob/master/N537.zip?raw=true) | [![xjy536](https://github.com/xjy16/books/blob/master/cover/xjy536.jpg)](https://github.com/xjy16/books/blob/master/N536.zip?raw=true)
 [![xjy535](https://github.com/xjy16/books/blob/master/cover/xjy535.jpg)](https://github.com/xjy16/books/blob/master/N535.zip?raw=true) | [![xjy534](https://github.com/xjy16/books/blob/master/cover/xjy534.jpg)](https://github.com/xjy16/books/blob/master/N534.zip?raw=true)
