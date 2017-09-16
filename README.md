@@ -7,10 +7,10 @@
 订阅全年52期《新纪元周刊》的PDF电子版，108元人民币  
 请联系：newepochservice@gmail.com
 
-[![xjy544](https://github.com/xjy16/books/blob/master/cover/xjy544.jpg)](https://github.com/xjy16/books/blob/master/N544.zip?raw=true)
-
-[![xjy543](https://github.com/xjy16/books/blob/master/cover/xjy543.jpg)](https://github.com/xjy16/books/blob/master/N543.zip?raw=true) | [![xjy542](https://github.com/xjy16/books/blob/master/cover/xjy542.jpg)](https://github.com/xjy16/books/blob/master/N542.zip?raw=true)
+[![xjy547](https://github.com/xjy16/books/blob/master/cover/xjy547.jpg)](https://github.com/xjy16/books/blob/master/N547.zip?raw=true) | [![xjy546](https://github.com/xjy16/books/blob/master/cover/xjy546.jpg)](https://github.com/xjy16/books/blob/master/N546.zip?raw=true)
 | ------------ | ------------- |
+[![xjy545](https://github.com/xjy16/books/blob/master/cover/xjy545.jpg)](https://github.com/xjy16/books/blob/master/N545.zip?raw=true) | [![xjy544](https://github.com/xjy16/books/blob/master/cover/xjy544.jpg)](https://github.com/xjy16/books/blob/master/N544.zip?raw=true)
+[![xjy543](https://github.com/xjy16/books/blob/master/cover/xjy543.jpg)](https://github.com/xjy16/books/blob/master/N543.zip?raw=true) | [![xjy542](https://github.com/xjy16/books/blob/master/cover/xjy542.jpg)](https://github.com/xjy16/books/blob/master/N542.zip?raw=true)
 [![xjy541](https://github.com/xjy16/books/blob/master/cover/xjy541.jpg)](https://github.com/xjy16/books/blob/master/N541.zip?raw=true) | [![xjy540](https://github.com/xjy16/books/blob/master/cover/xjy540.jpg)](https://github.com/xjy16/books/blob/master/N540.zip?raw=true)
 [![xjy539](https://github.com/xjy16/books/blob/master/cover/xjy539.jpg)](https://github.com/xjy16/books/blob/master/N539.zip?raw=true) | [![xjy538](https://github.com/xjy16/books/blob/master/cover/xjy538.jpg)](https://github.com/xjy16/books/blob/master/N538.zip?raw=true)
 [![xjy537](https://github.com/xjy16/books/blob/master/cover/xjy537.jpg)](https://github.com/xjy16/books/blob/master/N537.zip?raw=true) | [![xjy536](https://github.com/xjy16/books/blob/master/cover/xjy536.jpg)](https://github.com/xjy16/books/blob/master/N536.zip?raw=true)
