@@ -7,6 +7,8 @@
 订阅全年52期《新纪元周刊》的PDF电子版，108元人民币  
 请联系：newepochservice@gmail.com
 
+[![xjy548](https://github.com/xjy16/books/blob/master/cover/xjy548.jpg)](https://github.com/xjy16/books/blob/master/N548.zip?raw=true)
+
 [![xjy547](https://github.com/xjy16/books/blob/master/cover/xjy547.jpg)](https://github.com/xjy16/books/blob/master/N547.zip?raw=true) | [![xjy546](https://github.com/xjy16/books/blob/master/cover/xjy546.jpg)](https://github.com/xjy16/books/blob/master/N546.zip?raw=true)
 | ------------ | ------------- |
 [![xjy545](https://github.com/xjy16/books/blob/master/cover/xjy545.jpg)](https://github.com/xjy16/books/blob/master/N545.zip?raw=true) | [![xjy544](https://github.com/xjy16/books/blob/master/cover/xjy544.jpg)](https://github.com/xjy16/books/blob/master/N544.zip?raw=true)
